@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **swati.agrawal1312@gmail.com**
 
-- 📄 Know about my experiences [Java developer intern at Cognifyz|MCA-AIML student |SIH 2024 Participant](Java developer intern at Cognifyz|MCA-AIML student |SIH 2024 Participant)
+- 📄 Know about my experiences [Java developer intern at Cognifyz Technologies|MCA-AIML student |SIH 2024 Participant]
 
 - ⚡ Fun fact **I enjoy solving DSA problems as much as building UI**
 
