@@ -1,6 +1,6 @@
 # About_me
 <h1 align="center">Hi 👋, I'm Swati Agrawal</h1>
-<h3 align="center">Java Developer| DSA Enthusiast | MERN Stack</h3>
+<h3 align="center">Java | DSA Enthusiast | MERN Stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swatiagrawal1312&label=Profile%20views&color=0e75b6&style=flat" alt="swatiagrawal1312" /> </p>
 
